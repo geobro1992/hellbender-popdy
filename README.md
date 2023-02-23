@@ -3,7 +3,7 @@ Hellbender Population Dynamics Model
 
 Contributors: G. C. Brooks and H. K. Kindsvater
 
-This repository contains code to conduct a population viability analysis for hellbenders. A brief description of each scripts contents is provided below.
+This repository contains code to conduct a population viability analysis for hellbenders. A brief description of each script's contents is provided below.
 
 ## hellbenders_vital_rates_and_deterministic_projections.R
 This file contains the numbers and their associated sources used to parameterize hellbender vital rate functions, as well as a deterministic demographic model. The code can be used to simulate population projections under various levels of nest failure. 
