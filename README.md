@@ -13,3 +13,6 @@ This file contains the foundational demographic model from the first file and ex
 
 ## hellbenders_nest_fate_and_recruitment.R
 This file contains the foundational demographic model from the first file and extends it to include stochasticity. Both juvenile and adult mortality can vary randomly across years. The simulations quantify extinction risk across a range of nest failure rates and the degree of density dependence in larval recruitment.  
+
+## Appendix_S1.R
+This file contains the code to conduct supplemental analyses and produce all supplemental figures.  
